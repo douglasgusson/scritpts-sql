@@ -470,6 +470,7 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4202008,'Balneár
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4202073,'Balneário Gaivota','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4212809,'Balneário Piçarras','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4301636,'Balneário Pinhal','RS');
+INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4220000,'Balneário Rincão','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4102307,'Balsa Nova','PR');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3504800,'Bálsamo','SP');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2101400,'Balsas','MA');
@@ -3113,6 +3114,7 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (5213400,'Moiporá
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2804102,'Moita Bonita','SE');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3530805,'Moji Mirim','SP');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (1504703,'Moju','PA');
+INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (1504752,'Mojuí dos Campos','PA');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2308500,'Mombaça','CE');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3530904,'Mombuca','SP');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2106904,'Monção','MA');
@@ -3576,6 +3578,7 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3535606,'Paraibun
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2310258,'Paraipaba','CE');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4212239,'Paraíso','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3535705,'Paraíso','SP');
+INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (5006275,'Paraíso das Águas','MS');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4118006,'Paraíso do Norte','PR');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4314027,'Paraíso do Sul','RS');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (1716109,'Paraíso do Tocantins','TO');
@@ -3755,6 +3758,7 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4119004,'Pérola 
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (5216452,'Perolândia','GO');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3537602,'Peruíbe','SP');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3150000,'Pescador','MG');
+INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4212650,'Pescaria Brava','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2610905,'Pesqueira','PE');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2611002,'Petrolândia','PE');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4212700,'Petrolândia','SC');
@@ -3814,6 +3818,7 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4314506,'Pinheiro
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4213005,'Pinheiro Preto','SC');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3204104,'Pinheiros','ES');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2924652,'Pintadas','BA');
+INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4314548,'Pinto Bandeira','RS');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3150570,'Pintópolis','MG');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2208205,'Pio IX','PI');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2108702,'Pio XII','MA');
@@ -3999,9 +4004,6 @@ INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3541000,'Praia Gr
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (1718303,'Praia Norte','TO');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (1506005,'Prainha','PA');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (4120358,'Pranchita','PR');
-
-
-
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (3152808,'Prata','MG');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2512200,'Prata','PB');
 INSERT INTO cidade (cod_cidade, nome_cidade, sigla_uf) VALUES (2208601,'Prata do Piauí','PI');
